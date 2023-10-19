@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import { render } from 'react-dom'
 
-const part1 = 'Fundamentals of React'
+const part1 = 'Fundamentals of React.'
 const exercises1 = 10
 const part2 = 'Using props to pass data'
 const exercises2 = 7
